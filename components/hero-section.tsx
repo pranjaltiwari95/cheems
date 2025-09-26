@@ -151,22 +151,11 @@ export default function HeroSection() {
                       size="lg"
                       className="rounded-xl px-5 text-base"
                     >
-                      <Link href="#link">
+                      <Link href="/dashboard">
                         <span className="text-nowrap">Adopt a Cheems</span>
                       </Link>
                     </Button>
                   </div>
-                  <Button
-                    key={2}
-                    asChild
-                    size="lg"
-                    variant="ghost"
-                    className="h-10.5 rounded-xl px-5"
-                  >
-                    <Link href="#link">
-                      <span className="text-nowrap">Start as a Shelter</span>
-                    </Link>
-                  </Button>
                 </AnimatedGroup>
               </div>
             </div>
