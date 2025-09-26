@@ -104,9 +104,7 @@ export default function TestimonialSection() {
         <div className="mx-auto max-w-6xl px-6">
           <div className="text-center">
             <h2 className="text-3xl font-semibold">Loved by the Community</h2>
-            <p className="mt-6">
-              Harum quae dolore orrupti aut temporibus ariatur.
-            </p>
+            <p className="mt-6">Trusted and appreciated by people worldwide</p>
           </div>
           <div className="mt-8 grid gap-3 [--color-card:var(--color-muted)] sm:grid-cols-2 md:mt-12 lg:grid-cols-3 dark:[--color-muted:var(--color-zinc-900)]">
             {testimonialChunks.map((chunk, chunkIndex) => (
