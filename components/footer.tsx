@@ -1,4 +1,3 @@
-import { Logo } from "@/components/logo";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -177,7 +176,7 @@ export default function FooterSection() {
         </div>
         <span className="text-muted-foreground block text-center text-sm">
           {" "}
-          © {new Date().getFullYear()} Tailark, All rights reserved
+          © {new Date().getFullYear()} Cheems, All rights reserved
         </span>
       </div>
     </footer>
