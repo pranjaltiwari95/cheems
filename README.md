@@ -108,7 +108,7 @@ Make sure you have Node.js version >= 18.17.0 installed on your machine.
     NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
     CLERK_SECRET_KEY=your_clerk_secret_key
     
-    # Convex Backend
+    '# Convex Backend
     NEXT_PUBLIC_CONVEX_URL=your_convex_deployment_url
     CONVEX_DEPLOY_KEY=your_convex_deploy_key`
     
